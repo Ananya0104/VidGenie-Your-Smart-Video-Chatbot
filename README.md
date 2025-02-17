@@ -1,4 +1,4 @@
-# VidGenie: Your Smart Video Assistant
+# VidGenie: Your Smart Video Chatbot
 
 VidGenie is an intelligent video processing system designed to help you analyze, search, and understand video content through automated metadata extraction and semantic search capabilities. 
 
