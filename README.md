@@ -93,7 +93,7 @@ Now let’s understand the basic workflow of a RAG based LLM architecture in thr
 - **Metadata Storage**: Extracted metadata (transcriptions, captions) is stored in a ChromaDB vector database for easy retrieval.
 
 ### Retrieval System
-- **Semantic Search**: Query text is processed with Sentence Transformers to retrieve relevant video segments.
+- **Semantic Search**: Query text is processed with Sentence Transformers to retrieve relevant answers.
 - **Timestamp-based Matching**: Results are matched with timestamps for quick access to specific video sections.
 - **Multi-modal Search**: Users can search using both text and visual context.
 
