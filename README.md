@@ -80,6 +80,13 @@ Now let’s understand the basic workflow of a RAG based LLM architecture in thr
     - You'll see the ouput with the Video URI, timestamps, description etc.
     - View matched video segments with timestamps
 
+### Example Videos:
+- [Video 1](https://www.youtube.com/watch?v=ftDsSB3F5kg)
+- [Video 2](https://www.youtube.com/watch?v=kKFrbhZGNNI)
+- [Video 3](https://www.youtube.com/watch?v=6qUxwZcTXHY)
+- [Video 4](https://www.youtube.com/watch?v=MspNdsh0QcM)
+- [Video 5](https://www.youtube.com/watch?v=Kf57KGwKa0w)
+
 
 ## How It Works
 
@@ -95,7 +102,7 @@ Now let’s understand the basic workflow of a RAG based LLM architecture in thr
 - **Multi-modal Search**: Users can search using both text and visual context.
 
 ### Streamlit Interface
-- **Interactive UI**: Easily input video URLs and manage video processing.
+- **Interactive UI**: Easily input any question.
 - **Real-time Processing**: Track the status of video processing in real-time.
 - **Search Results**: View results of search queries with corresponding timestamps. 
 
