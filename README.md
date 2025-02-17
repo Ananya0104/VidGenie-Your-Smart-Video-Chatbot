@@ -2,6 +2,8 @@
 
 VidGenie is an intelligent video processing system designed to help you analyze, search, and understand video content through automated metadata extraction and semantic search capabilities. 
 
+![🎥VidGenie](app.png)
+
 ## What is RAG?
 
 RAG stands for Retrieval Augmented Generation.
