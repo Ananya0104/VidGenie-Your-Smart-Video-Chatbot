@@ -48,8 +48,8 @@ Now let’s understand the basic workflow of a RAG based LLM architecture in thr
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/vidgenie.git
-    cd vidgenie
+    git clone https://github.com/yourusername/VidGenie-Your-Smart-Video-Chatbot.git
+    cd VidGenie-Your-Smart-Video-Chatbot
     ```
 
 2. **Install Dependencies**
@@ -71,7 +71,7 @@ Now let’s understand the basic workflow of a RAG based LLM architecture in thr
 
 1. **Launch the Streamlit Interface**
     ```bash
-    streamlit run app.py
+    streamlit run main_app.py
     ```
 
 2. **In the Web Interface:**
