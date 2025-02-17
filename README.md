@@ -2,6 +2,33 @@
 
 VidGenie is an intelligent video processing system designed to help you analyze, search, and understand video content through automated metadata extraction and semantic search capabilities. 
 
+## What is RAG?
+
+RAG stands for Retrieval Augmented Generation.
+
+Each phase can be approximately divided into: 
+
+  1. Retrieval - Act of searching for relevant information from a source based on a specific query. For instance, retrieving relevant snippets of Wikipediacontent from            database in response to a certain question.
+        
+  2. Augmented - Process of utilizing relevant returned information to alter an input for a generative model, such as an LLM.
+        
+  3. Generation - Process of producing an output based on a particular input. For instance, while considering an LLM, the task involves creating a written piece based            on a specified prompt.
+  
+
+● The main goal of RAG is to improve the generation outputs of LLMs.
+
+
+
+## Workflow of RAG
+
+Now let’s understand the basic workflow of a RAG based LLM architecture in three steps:
+
+1. Ingestion
+2. Synthesis
+3. Retrieval
+
+<img src="https://github.com/Ananya0104/Basic-RAG-Implementation/blob/main/rag.jpeg">
+
 ## Features
 - **YouTube Video Downloading & Metadata Extraction**: Download and extract video metadata from YouTube URLs.
 - **Automatic Speech-to-Text Transcription**: Transcribe video audio to text in 100+ languages using the Whisper model.
