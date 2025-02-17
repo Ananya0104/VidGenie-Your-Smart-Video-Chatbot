@@ -47,10 +47,6 @@ Now let’s understand the basic workflow of a RAG based LLM architecture in thr
 ## Installation
 
 1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/yourusername/VidGenie-Your-Smart-Video-Chatbot.git
-    cd VidGenie-Your-Smart-Video-Chatbot
-    ```
 
 2. **Install Dependencies**
     ```bash
